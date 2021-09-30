@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-RID16-07-NUTNRB000-recovered_host-nutnr_b_dcl_conc_instrument_recovered
 data_stream: CE06ISSM-RID16-07-NUTNRB000-recovered_host-nutnr_b_dcl_conc_instrument_recovered
 end_date: '2016-05-15T22:30:37.519Z'
-last_updated: '2021-09-18T03:13:21.379428'
+last_updated: '2021-09-30T00:28:59.802139Z'
 start_date: '2014-10-07T20:30:34.615Z'
-status: success
+status: pending
